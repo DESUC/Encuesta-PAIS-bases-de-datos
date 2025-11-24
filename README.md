@@ -18,7 +18,6 @@ En este repositorio encontrarás:
 - **Cuestionario** utilizado.
 - **Sábana de datos** segmentada por variables de interés.
 
-
 Los resultados generales de la Encuesta PAIS 2025 fueron presentados en un seminario organizado por DESUC, y puedes encontrar información en esta [nota][resultados], y también una profundización sobre experimentos de [framing][framing].
 
 
@@ -29,16 +28,17 @@ Cualquier información adicional, puedes escribir a [desuc@uc.cl](mailto:desuc@u
 
 ## Ficha informativa
 
-* **Título**: Encuesta Percepciones, Actitudes e Información Social (PAIS).
+### 2025
+
+* **Título**: Encuesta PAIS 2025 sobre eco-ansiedad y cambio climático.
 * **Año de levantamiento**: 2025.
-* **Autores**: Cristián Andrés Ayala Armanet, Daniella Andrea Leal Valenzuela, Vicky Carla Rojas Araya, Claudia Valentina Yañez Armijo.
-* **Afiliación institucional**: Dirección de Estudios Sociales DESUC, Pontificia Universidad Católica de Chile.
+* **Autores**: Dirección de Estudios Sociales UC
+* **Afiliación institucional**: Pontificia Universidad Católica de Chile.
 * **Resumen (abstract)**: Encuesta PAIS comenzó el año 2021, como un levantamiento de datos que permitiera obtener información con una perspectiva de mediano y largo plazo en temas que relevantes para Chile. La versión 2025 aborda una de las ansiedades contemporáneas, específicamente asociada al cambio climático.
 * **Descarga de bases de datos y documentos asociados**: [repositorio de DESUC][git].
 
-+ Dirección de Estudios Sociales UC, 2025. _Encuesta PAIS 2025 sobre eco--ansiedad y cambio climático_.
 
-
-[resultados]:https://blog.desuc.cl/posts/2025-09-01-seminario-PAIS/seminario-pais.html
-[framing]:https://blog.desuc.cl/posts/2025-09-10-experimento-framing/experimento-framing.html
-[desuc]:https://blog.desuc.cl
+[resultados]: https://blog.desuc.cl/posts/2025-09-01-seminario-PAIS/seminario-pais.html
+[framing]: https://blog.desuc.cl/posts/2025-09-10-experimento-framing/experimento-framing.html
+[desuc]: https://blog.desuc.cl
+[git]: https://github.com/DESUC/Encuesta-PAIS-bases-de-datos

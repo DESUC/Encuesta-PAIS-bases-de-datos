@@ -1,0 +1,27 @@
+citHeader("Para citar el uso de Encuesta PAIS:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "Encuesta PAIS 2025 sobre eco-ansiedad y cambio climático",
+  author   = "Dirección de Estudios Sociales UC",
+  institution = "Dirección de Estudios Sociales UC (DESUC)",
+  publisher = "Pontificia Universidad Católica de Chile",
+  editor   = "Cristián Ayala Armanet, Daniella Leal Valenzuela, Vicky Rojas Araya, Claudia Yañez Armijo",
+  address  = "Santiago, Chile",
+  month    = "agosto",
+  date     = "2025-08-27",
+  year     = 2025,
+  doi      = "",
+  url      = "https://github.com/DESUC/Encuesta-PAIS-bases-de-datos",
+  howpublished = "Repositorio GitHub",
+  keywords = "Encuestas, Opinión Pública, Chile, PAIS, DESUC, Base de datos, Eco-ansiedad, Cambio Climático",
+  language = "es",
+  version  = "1.0.0",
+    textVersion = paste(
+    "Dirección de Estudios Sociales UC (2025). ",
+    "Encuesta PAIS 2025 sobre eco-ansiedad y cambio climático ",
+    "(Versión 1.0.0). ",
+    "Santiago, Chile: DESUC – Pontificia Universidad Católica de Chile. ",
+    "Disponible en: https://github.com/DESUC/Encuesta-PAIS-bases-de-datos."
+  )
+)
