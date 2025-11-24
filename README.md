@@ -28,6 +28,11 @@ Los resultados generales de la Encuesta PAIS 2025 fueron presentados en un semin
 
 Cualquier información adicional, puedes escribir a [desuc@uc.cl](mailto:desuc@uc.cl)
 
+ ## Cita
+
+ **Para citar el uso de los datos:**
+
++ Dirección de Estudios Sociales UC, 2025. _Encuesta PAIS 2025 sobre eco--ansiedad y cambio climático_.
 
 
 [resultados]:https://blog.desuc.cl/posts/2025-09-01-seminario-PAIS/seminario-pais.html
