@@ -25,12 +25,16 @@ Los resultados generales de la Encuesta PAIS 2025 fueron presentados en un semin
 <img src="Encuesta-PAIS-2025/DESUC Encuesta PAIS 2025 - Seminario.png" width="60%">
 
 
-
 Cualquier información adicional, puedes escribir a [desuc@uc.cl](mailto:desuc@uc.cl)
 
- ## Cita
+## Ficha informativa
 
- **Para citar el uso de los datos:**
+* **Título**: Encuesta Percepciones, Actitudes e Información Social (PAIS).
+* **Año de levantamiento**: 2025.
+* **Autores**: Cristián Andrés Ayala Armanet, Daniella Andrea Leal Valenzuela, Vicky Carla Rojas Araya, Claudia Valentina Yañez Armijo.
+* **Afiliación institucional**: Dirección de Estudios Sociales DESUC, Pontificia Universidad Católica de Chile.
+* **Resumen (abstract)**: Encuesta PAIS comenzó el año 2021, como un levantamiento de datos que permitiera obtener información con una perspectiva de mediano y largo plazo en temas que relevantes para Chile. La versión 2025 aborda una de las ansiedades contemporáneas, específicamente asociada al cambio climático.
+* **Descarga de bases de datos y documentos asociados**: [repositorio de DESUC][git].
 
 + Dirección de Estudios Sociales UC, 2025. _Encuesta PAIS 2025 sobre eco--ansiedad y cambio climático_.
 
