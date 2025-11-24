@@ -1,0 +1,13 @@
+citHeader("Para citar el uso de Encuesta PAIS:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "Encuesta PAIS",
+  author   = "Dirección de Estudios Sociales UC",
+  year     = 2025,
+  doi      = "",
+  url      = "https://github.com/DESUC/Encuesta-PAIS-bases-de-datos",
+  textVersion = paste(
+"Dirección de Estudios Sociales UC (2025). Encuesta PAIS: Encuesta telefónica sobre percepciones, actitudes e información social."
+  )
+)
