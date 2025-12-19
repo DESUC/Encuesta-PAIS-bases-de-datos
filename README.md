@@ -36,6 +36,7 @@ Cualquier información adicional, puedes escribir a [desuc@uc.cl](mailto:desuc@u
 * **Afiliación institucional**: Pontificia Universidad Católica de Chile.
 * **Resumen (abstract)**: Encuesta PAIS comenzó el año 2021, como un levantamiento de datos que permitiera obtener información con una perspectiva de mediano y largo plazo en temas que relevantes para Chile. La versión 2025 aborda una de las ansiedades contemporáneas, específicamente asociada al cambio climático.
 * **Descarga de bases de datos y documentos asociados**: [repositorio de DESUC][git].
+* DOI: [https://doi.org/10.7764/DESUC.2025.01](https://doi.org/10.7764/DESUC.2025.01)
 
 
 [resultados]: https://blog.desuc.cl/posts/2025-09-01-seminario-PAIS/seminario-pais.html

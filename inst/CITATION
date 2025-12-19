@@ -11,7 +11,7 @@ citEntry(
   month    = "agosto",
   date     = "2025-08-27",
   year     = 2025,
-  doi      = "",
+  doi      = "10.7764/DESUC.2025.01",
   url      = "https://github.com/DESUC/Encuesta-PAIS-bases-de-datos",
   howpublished = "Repositorio GitHub",
   keywords = "Encuestas, Opinión Pública, Chile, PAIS, DESUC, Base de datos, Eco-ansiedad, Cambio Climático",
